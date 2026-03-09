@@ -1,0 +1,16 @@
+{
+  "name": "testes-automatizados",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "calcular-valor-pedidos.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll *.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
