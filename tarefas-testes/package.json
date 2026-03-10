@@ -1,0 +1,19 @@
+{
+  "name": "tarefas",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll *.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "watch": "^1.0.2"
+  }
+}
